@@ -1,0 +1,3 @@
+test-output/
+cucumber-reports
+.gitignoresrc/test/resources/qa.properties
